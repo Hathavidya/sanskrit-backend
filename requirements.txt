@@ -1,0 +1,5 @@
+
+Flask
+google-cloud-speech
+pydub
+ffmpeg
